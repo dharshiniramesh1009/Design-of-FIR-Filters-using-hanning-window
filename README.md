@@ -107,4 +107,4 @@ title('Phase Response');
 <img width="762" height="601" alt="image" src="https://github.com/user-attachments/assets/b5189b2f-5549-4304-9080-17977807f6f0" />
 
 # RESULT
-  Design of low pass FIR digital filter using SCILAB is generated.
+  Design of low pass FIR digital filter using SCILAB is generated
